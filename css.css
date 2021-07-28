@@ -1,0 +1,27 @@
+body{
+  background-color: #B5CDA3;
+  text-align: center;
+margin-top: 100px;
+
+}
+h1{
+  width: 10%;
+font-family: 'Montserrat', sans-serif;
+  margin: 0 auto 0  auto;
+}
+.bottomcloud{
+  position: absolute;
+  top: 280px;
+  left: 550px;
+}
+  .topcloud{
+    position: relative;
+    left: 150px;
+  }
+.Vipul{
+
+  width: 400px;
+}
+.bff{
+  width: 500px;
+}
